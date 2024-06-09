@@ -1,4 +1,4 @@
-[Tiếng Việt](doc/README_Vietnamese.md) | [English](../README.md) | 中国人 | 日本語 | русский
+[Tiếng Việt](doc/README_Vietnamese.md) | [English](../README.md) | 中国人 | 日本語 | [русский](doc/README_Russian.md)
 ## Hướng dẫn sử dụng Google Test
 #### Hướng dẫn cài đặt
 Đầu tiên, clone Google Test từ kho lưu trữ GitHub của dự án. Có thể clone từ link https://github.com/google/googletest hoặc clone kho lưu trữ này về thiết bị cục bộ của bạn:
