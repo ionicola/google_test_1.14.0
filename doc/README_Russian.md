@@ -1,4 +1,4 @@
-[Tiếng Việt](./README_Vietnamese.md) | [English](../README.md) | 中国人 | 日本語 | [русский](./README_Russian.md)
+[Tiếng Việt](./README_Vietnamese.md) | [English](../README.md) | [中国人](./README_Chinese.md) | [日本語](./README_Japanese.md) | [русский](./README_Russian.md)
 ## Руководство для Google Test
 #### Инструкция по установке
 Сначала клонируйте Google Test из GitHub проекта. Ссылка на https://github.com/google/googletest или клонируйте этот репозиторий на свое локальное устройство:

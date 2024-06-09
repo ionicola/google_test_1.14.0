@@ -1,7 +1,7 @@
-[Tiếng Việt](doc/README_Vietnamese.md) | [English](./README.md) | 中国人 | 日本語 | [русский](doc/README_Russian.md)
+[Tiếng Việt](doc/README_Vietnamese.md) | [English](./README.md) | [中国人](doc/README_Chinese.md) | [日本語](doc/README_Japanese.md) | [русский](doc/README_Russian.md)
 ## Guideline for Google Test
 #### Instruction for installing
-First, clone the Google Test from project's GitHub. Link to https://github.com/google/googletest.git or clone this repository to your local device:
+First, clone the Google Test from project's GitHub. Link to https://github.com/google/googletest or clone this repository to your local device:
 ```bash
 $ git clone https://github.com/google/googletest.git
 ```
